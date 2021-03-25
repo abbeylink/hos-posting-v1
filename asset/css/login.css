@@ -1,0 +1,40 @@
+.bg-transparent {
+  background-color: transparent !important;
+}
+.container-alt {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+/* =============
+   Account Pages
+============= */
+.wrapper-page {
+  margin: 5% auto;
+  position: relative;
+  max-width: 300px;
+}
+.account-pages {
+  box-shadow: 0 0px 24px 0 rgba(0, 0, 0, 0.06), 0 1px 0px 0 rgba(0, 0, 0, 0.02);
+  border-radius: 5px;
+}
+.account-pages .account-content {
+  padding: 30px;
+  background-color: transparent;
+}
+.account-pages .account-btn {
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+.account-logo-box {
+  background-color: #006228;
+  padding: 10px;
+  border-radius: 5px 5px 0 0;
+}
+.checkmark {
+  width: 120px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
